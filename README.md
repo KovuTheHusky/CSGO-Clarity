@@ -17,21 +17,21 @@ Simplifies chat text and friends list statuses for Counter-Strike: Global Offens
 
 If you'd like to make any changes, clone this repository and edit the language file. Color codes are listed below for your convienence.
 
-Color | Character | Description
+Color | Character | Binary | Description
 --- | --- | ---
-White | SOH  |
-Red | STX  |
-Team | ETX  | May cause player's color dot before symbol.
-Green | EOT  |
-Light Green | ENQ  |
-Green | ACK  | Color used for monetary awards.
-Light Red | BEL  | Color used for monetary penalties and warnings.
-Silver | BS  |
-Gold | HT 	 |
-Light Blue | VT  |
-Blue | FF  |
-Violet | SO  |
-Light Red 2 | SI  |
+White | SOH |  |
+Red | STX |  |
+Team | ETX |  | May cause player's color dot before symbol.
+Green | EOT |  |
+Light Green | ENQ |  |
+Green | ACK |  | Color used for monetary awards.
+Light Red | BEL |  | Color used for monetary penalties and warnings.
+Silver | BS |  |
+Gold | HT | 	 |
+Light Blue | VT |  |
+Blue | FF |  |
+Violet | SO |  |
+Light Red 2 | SI |  |
 
 ## Links
 
