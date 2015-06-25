@@ -18,7 +18,7 @@ Simplifies chat text and friends list statuses for Counter-Strike: Global Offens
 If you'd like to make any changes, clone this repository and edit the language file. Color codes are listed below for your convienence.
 
 Color | Character | Binary | Description
---- | --- | --- | ---
+--- | :-: | :-: | ---
 White | SOH |  |
 Red | STX |  |
 Team | ETX |  | May cause player's color dot before symbol.
