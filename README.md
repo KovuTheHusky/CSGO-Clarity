@@ -9,9 +9,10 @@ Simplifies chat text and friends list statuses for Counter-Strike: Global Offens
 
 ## Installation
 
-1. Place `csgo_clarity.txt` in your `csgo/resource` directory.
-2. Right-click 'Counter-Strike: Global Offensive' in Steam and select 'Properties' and then 'Set Launch Options...'
-3. Add the launch option `-language clarity` and click 'OK' and then 'Close'.
+1. Download the [text file](https://raw.githubusercontent.com/KovuTheHusky/CSGO-Clarity/blob/master/csgo_clarity.txt). You may have to use `File > Save As...` to do so.
+2. Place `csgo_clarity.txt` in your `csgo/resource` directory.
+3. Right-click 'Counter-Strike: Global Offensive' in Steam and select 'Properties' and then 'Set Launch Options...'
+4. Add the launch option `-language clarity` and click 'OK' and then 'Close'.
 
 ## Configuration
 
