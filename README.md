@@ -6,6 +6,7 @@ Simplifies chat text and friends list statuses for Counter-Strike: Global Offens
 
 * Chat messages for allchat, teamchat, radio, grenade use, and money rewards are much shorter and easier to distinguish.
 * Friends list statuses for playing and watching all gamemodes are much shorter and easier to distinguish.
+* Updated for **Operation: Wildfire**! This project is kept up to date with every new operation Valve publishes.
 
 ## Installation
 
