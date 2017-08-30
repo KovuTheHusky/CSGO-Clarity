@@ -37,6 +37,6 @@ Light Red 2 | SI |  |
 
 ## Links
 
-* Website: <http://codeski.com/#csgoclarity>
+* Website: <https://kovuthehusky.com/projects#csgoclarity>
 * Issues: <https://github.com/KovuTheHusky/CSGO-Clarity/issues>
 * Source: <https://github.com/KovuTheHusky/CSGO-Clarity>
