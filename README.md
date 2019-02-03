@@ -1,4 +1,4 @@
-# CS:GO Clarity
+# CS:GO Clarity [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 Simplifies chat text and friends list statuses for Counter-Strike: Global Offensive.
 
